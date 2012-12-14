@@ -12,12 +12,12 @@ It allows you to open a folder in a new Terminal window by right-clicking it in 
 
 ## What Is It? ##
 
-*Show In Terminal* is an Automator script. It makes use of the Automator utility built-in to Mac OS X to add an item to the context menu that appears when a folder is right-clicked in the Finder.
+*Show In Terminal* is an Automator script. It makes use of the Automator utility built into Mac OS X to add an item to the context menu that appears when a folder is right-clicked in the Finder.
 
 
 ## Installation ##
 
- 1. Download the file repository.
+ 1. [Download][zip] the file repository.
  2. Open the folder containing the repository files.
  3. Right-click the file __Show In Terminal.workflow__
  4. Select __Open__ from the context menu that appears. If a dialog appears warning of "an unidentified developer" click the __Open__ button.
@@ -34,5 +34,8 @@ If there is a __Show In Terminal__ item in the context menu that appears the ins
 
 
 ## Copyright ##
-Copyright (c) 2012 Paul Graham
+Copyright (c) 2012 Paul Graham 
+
 See LICENSE for details.
+
+[zip]: https://github.com/PaulWGraham/Show-In-Terminal/archive/master.zip
